@@ -1,0 +1,59 @@
+{
+  "name": "twemoji-icon-theme",
+  "displayName": "Twemoji Icon Theme",
+  "description": "Enjoy cute and neat Twemoji icon on VScode. 🥰",
+  "version": "1.0.0",
+  "publisher": "0w0i0n0g0",
+  "homepage": "https://github.com/0w0i0n0g0/twemoji-icon-theme",
+  "author": {
+    "name": "0w0i0n0g0",
+    "url": "https://0w0i0n0g0.github.io"
+  },
+  "engines": {
+    "vscode": "^1.51.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0w0i0n0g0/twemoji-icon-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/0w0i0n0g0/twemoji-icon-theme/issues"
+  },
+  "scripts": {
+    "build": "vsce package"
+  },
+  "icon": "src/logo.png",
+  "galleryBanner": {
+    "color": "#1e1e1e",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "icons",
+    "theme",
+    "twemoji",
+    "icon-theme",
+    "customization"
+  ],
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "capabilities": {
+    "untrustedWorkspaces": {
+      "supported": true
+    },
+    "virtualWorkspaces": true
+  },
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "twemoji-icon-theme",
+        "label": "Twemoji Icon Theme",
+        "path": "./src/twemoji-icon-theme.json"
+      }
+    ]
+  }
+}
