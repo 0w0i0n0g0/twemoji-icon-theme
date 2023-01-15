@@ -3,7 +3,7 @@
 # Twemoji Icon Theme
 
 <p align="center">
-  <img src="https://cdn.statically.io/gh/0w0i0n0g0/twemoji-icon-theme/main/src/logo.png" width="160"/>
+  <img src="src/logo.png" width="160"/>
 </p>
 
 By_0w0i0n0g0
