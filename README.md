@@ -13,6 +13,8 @@ By_0w0i0n0g0
 
 ## Table of Contents
 
+[Download](#download)
+
 [Description](#description)
 
 [Features](#features)
@@ -20,6 +22,15 @@ By_0w0i0n0g0
 [License and Third Party Notices](#license-and-third-party-notices)
 
 </div>
+
+<br>
+<br>
+
+## Download
+
+Download Twemoji Icon Theme [here!](https://marketplace.visualstudio.com/items?itemName=0w0i0n0g0.twemoji-icon-theme)
+
+- ### https://marketplace.visualstudio.com/items?itemName=0w0i0n0g0.twemoji-icon-theme
 
 <br>
 <br>
