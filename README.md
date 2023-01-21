@@ -3,7 +3,7 @@
 # Twemoji Icon Theme
 
 <p align="center">
-  <img src="src/logo.png" width="160"/>
+  <img src="https://www.emojiall.com/images/240/twitter/1f389.png" width="160"/>
 </p>
 
 By_0w0i0n0g0
