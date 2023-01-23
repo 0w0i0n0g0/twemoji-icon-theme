@@ -16,68 +16,68 @@
   "iconDefinitions": {
     "markdown": {
       "fontCharacter": "\\200A\\200A\\2B07",
-      "fontId": "Twemoji"
-      //"iconPath": "./../icons/markdown.svg"
+      "fontId": "Twemoji",
+      "_iconPath": "./../icons/markdown.svg"
     },
     "font": {
       "fontCharacter": "\\200A\\200A\\1F170",
-      "fontId": "Twemoji"
-      //"iconPath": "./../icons/font.svg"
+      "fontId": "Twemoji",
+      "_iconPath": "./../icons/font.svg"
     },
     "docker": {
       "fontCharacter": "\\200A\\200A\\1F433",
-      "fontId": "Twemoji"
-      //"iconPath": "./../icons/docker.svg"
+      "fontId": "Twemoji",
+      "_iconPath": "./../icons/docker.svg"
     },
     "readme": {
       "fontCharacter": "\\200A\\200A\\2139",
-      "fontId": "Twemoji"
-      //"iconPath": "./../icons/readme.svg"
+      "fontId": "Twemoji",
+      "_iconPath": "./../icons/readme.svg"
     },
     "certificate": {
       "fontCharacter": "\\200A\\200A\\1F396",
-      "fontId": "Twemoji"
-      //"iconPath": "./../icons/certificate.svg"
+      "fontId": "Twemoji",
+      "_iconPath": "./../icons/certificate.svg"
     },
     "yarn": {
       "fontCharacter": "\\200A\\200A\\1F408",
-      "fontId": "Twemoji"
-      //"iconPath": "./../icons/yarn.svg"
+      "fontId": "Twemoji",
+      "_iconPath": "./../icons/yarn.svg"
     },
     "php": {
       "fontCharacter": "\\200A\\200A\\1F9A3",
-      "fontId": "Twemoji"
-      //"iconPath": "./../icons/php.svg"
+      "fontId": "Twemoji",
+      "_iconPath": "./../icons/php.svg"
     },
     "gradle": {
       "fontCharacter": "\\200A\\200A\\1F418",
-      "fontId": "Twemoji"
-      //"iconPath": "./../icons/gradle.svg"
+      "fontId": "Twemoji",
+      "_iconPath": "./../icons/gradle.svg"
     },
     "http": {
       "fontCharacter": "\\200A\\200A\\1F310",
-      "fontId": "Twemoji"
-      //"iconPath": "./../icons/http.svg"
+      "fontId": "Twemoji",
+      "_iconPath": "./../icons/http.svg"
     },
     "jenkins": {
       "fontCharacter": "\\200A\\200A\\1F935",
-      "fontId": "Twemoji"
-      //"iconPath": "./../icons/jenkins.svg"
+      "fontId": "Twemoji",
+      "_iconPath": "./../icons/jenkins.svg"
     },
     "java": {
       "fontCharacter": "\\200A\\200A\\2615",
-      "fontId": "Twemoji"
-      //"iconPath": "./../icons/java.svg"
+      "fontId": "Twemoji",
+      "_iconPath": "./../icons/java.svg"
     },
     "audio": {
       "fontCharacter": "\\200A\\200A\\1F3A7",
-      "fontId": "Twemoji"
-      //"iconPath": "./../icons/audio.svg"
+      "fontId": "Twemoji",
+      "_iconPath": "./../icons/audio.svg"
     },
     "applescript": {
       "fontCharacter": "\\200A\\200A\\1F34E",
-      "fontId": "Twemoji"
-      //"iconPath": "./../icons/applescript.svg"
+      "fontId": "Twemoji",
+      "_iconPath": "./../icons/applescript.svg"
     },
     "git": {
       "iconPath": "./../icons/git.svg"
