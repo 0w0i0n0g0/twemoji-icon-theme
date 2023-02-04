@@ -31,11 +31,9 @@
     "Themes"
   ],
   "keywords": [
-    "icons",
-    "theme",
     "twemoji",
-    "icon-theme",
-    "customization"
+    "vscode-theme",
+    "vscode-extension"
   ],
   "extensionKind": [
     "ui",
