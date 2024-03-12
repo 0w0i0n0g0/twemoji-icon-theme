@@ -19,6 +19,8 @@ By_0w0i0n0g0
 
 [Features](#features)
 
+[Stack](#stack)
+
 [License and Third Party Notices](#license-and-third-party-notices)
 
 </div>
@@ -46,7 +48,7 @@ Enjoy cute and neat Twemoji icon on VScode. 🥰
 
 This VScode file icon theme extension is based on Material Icon Theme and Twemoji.
 
-So, Material Icon Theme will be applied as a defult file icon theme except for the supported ones listed below.
+Material Icon Theme will be applied as a defult file icon theme except for the supported ones listed below.
 
 <br>
 
@@ -80,7 +82,14 @@ So, Material Icon Theme will be applied as a defult file icon theme except for t
 
 <br>
 
-If there is an emoji suitable for a specific file format, please create an issue. Then, I will try to include it in the next update.
+If there is an emoji suitable for a specific file format, please create an issue. Then, I will include it to the next update.
+
+<br>
+<br>
+
+## Stack
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br>
 <br>
@@ -97,4 +106,4 @@ Third Party Notices
 
 3. twemoji (https://github.com/twitter/twemoji)
 
-Read full license [here](https://github.com/0w0i0n0g0/twemoji-icon-theme/LICENSE).
+Read full license [here](https://github.com/0w0i0n0g0/twemoji-icon-theme/blob/main/LICENSE).
