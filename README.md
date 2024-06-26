@@ -11,6 +11,15 @@ By_0w0i0n0g0
 <br>
 <br>
 
+### Thanks for ↑ 1000 downloads!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0w0i0n0g0/twemoji-icon-theme/main/src/downloads.png" width="300"/>
+</p>
+
+<br>
+<br>
+
 ## Table of Contents
 
 [Download](#download)
