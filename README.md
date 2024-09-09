@@ -17,8 +17,19 @@ By_0w0i0n0g0
   <img src="https://raw.githubusercontent.com/0w0i0n0g0/twemoji-icon-theme/main/src/downloads.png" width="300"/>
 </p>
 
+</div>
+
 <br>
 <br>
+	
+**📌 This repository has been archived. It is now read-only.**
+
+**But still, you can download the *Twemoji Icon Theme* from the [visual studio marketplace](https://marketplace.visualstudio.com/items?itemName=0w0i0n0g0.twemoji-icon-theme). Thank you.**
+
+<br>
+<br>
+
+<div align="center">
 
 ## Table of Contents
 
